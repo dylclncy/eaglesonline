@@ -1,0 +1,13 @@
+{
+  "name": "pretext-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static black-and-white pretext text rendering engine site.",
+  "scripts": {
+    "start": "node server.js",
+    "preview": "npx serve docs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
